@@ -2,7 +2,6 @@ var a = "a"
 var b = "b"
 
 function add(a + b) {
-  
 }
 
 subtract(a - b)
