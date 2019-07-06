@@ -2,7 +2,7 @@ var a = "a"
 var b = "b"
 
 function plus() {
-  return(a + b)
+  add(a + b)
   
 }
 
