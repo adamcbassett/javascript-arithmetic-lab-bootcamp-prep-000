@@ -1,9 +1,8 @@
 var a = "a"
 var b = "b"
 
-function add(a+b) {
-  
-  
+function add() {
+  return (a + b)
 }
 
 subtract(a - b)
