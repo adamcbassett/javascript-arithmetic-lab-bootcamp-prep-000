@@ -1,7 +1,7 @@
 var a = "a"
 var b = "b"
 
-function add() {
+function plus() {
   add(a + b)
 }
 
