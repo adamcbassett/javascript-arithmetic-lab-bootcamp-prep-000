@@ -1,8 +1,8 @@
 var a = "a"
 var b = "b"
 
-function plus() {
-  add(a + b)
+function add(a+b) {
+  
   
 }
 
